@@ -51,6 +51,7 @@ luxury-calendar-2026/
 │── logo_black.png
 │── logo _white.png
 │── README.md
+│── LICENSE.txt
 
 ---
 
